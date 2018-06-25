@@ -1,5 +1,5 @@
 {
-    "name": "marqu3s/yii2-summernote",
+    "name": "paulobrandit/yii2-summernotee",
     "description": "Yii2 Summernote widget. Super simple WYSIWYG editor on Bootstrap",
     "type": "yii2-extension",
     "keywords": [
@@ -30,6 +30,7 @@
     },
     "require": {
         "yiisoft/yii2": "~2",
+        "yiisoft/yii2-bootstrap4": "~1.0.0",
         "bower-asset/codemirror": "@stable",
         "bower-asset/summernote": "0.*"
     },
