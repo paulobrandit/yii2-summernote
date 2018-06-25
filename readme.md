@@ -1,4 +1,4 @@
-# Yii2 Summernote widget. Summernote 0.8.0
+# Yii2 Summernote widget. Summernote 0.8.0 (forked by paulobrandit to add support for yii\bootstrap4\Bootrstrap
 
 [Yii2](http://www.yiiframework.com) [Summernote](http://hackerwins.github.io/summernote) widget. Super simple WYSIWYG editor on Bootstrap
 
