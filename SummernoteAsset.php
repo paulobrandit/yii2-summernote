@@ -11,7 +11,7 @@ class SummernoteAsset extends AssetBundle
     public $sourcePath = '@bower/summernote/dist';
     /** @var array */
     public $depends = [
-        'yii\bootstrap\BootstrapPluginAsset',
+        'yii\bootstrap4\BootstrapPluginAsset',
     ];
 
     /**
