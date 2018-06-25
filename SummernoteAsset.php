@@ -21,8 +21,8 @@ class SummernoteAsset extends AssetBundle
     {
         $postfix = YII_DEBUG ? '' : '.min';
 
-        $this->css[] = 'summernote.css';
-        $this->js[] = 'summernote' . $postfix . '.js';
+        $this->css[] = 'summernote-bs4.css';
+        $this->js[] = 'summernote-bs4' . $postfix . '.js';
 
         parent::init();
     }
